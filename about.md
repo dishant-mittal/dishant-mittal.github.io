@@ -4,19 +4,9 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>As part of application development team in Samsung I have worked on several projects and implemented various features in S Planner application for Samsung flagship models. I have worked with Samsung HQ team at South Korea and Samsung Project Management team at Germany on several projects.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am a Computer Scientist and a full stack software developer experienced with advanced machine learning, algorithms and natural language processing. I love incorporating artificial intelligence algorithms into full stack software development. <a href="https://photos.app.goo.gl/btoSNNjzXyCrjLyA3">link to gallery</a></p>
 
 <h2>Skills</h2>
 
@@ -37,10 +27,4 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li>TDD e Continuous Integration</li>
 </ul>
 
-<h2>Projects</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
