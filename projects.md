@@ -8,9 +8,9 @@ permalink: /projects/
 
 Most of my projects have been in the area of Machine Learning and Aritficial Intelligence.
 
-+ [xyz](https://dishant-mittal.github.io/user-user-collaborative-recommender-system)
++ [User-User Collaborative Recommender Systems](https://github.com/dishant-mittal/user-user-collaborative-recommender-system)
 
-+ [uvw](http://deerishi.github.io/graph-based-semi-supervised-learning/)
++ [Hybrid-Classifier-using-Stochastic-and-SOM](https://github.com/dishant-mittal/Hybrid-Classifier-using-Stochastic-and-SOM)
 
 Ongoing Projects
 
