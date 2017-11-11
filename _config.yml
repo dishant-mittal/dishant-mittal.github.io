@@ -1,6 +1,6 @@
 # main text of home
 name: Dishant Mittal
-bio: Grad student at University of Waterloo
+bio: Computer Science grad student at University of Waterloo
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -16,7 +16,8 @@ resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: http://dishant-mittal.github.io
+url: /404.html
+#url: http://dishant-mittal.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -69,7 +70,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
