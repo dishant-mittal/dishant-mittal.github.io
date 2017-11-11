@@ -1,10 +1,11 @@
 ---
 layout: custom
-title: Projects
+title: Publications
 permalink: /publications/
 ---
 
 ## Publications
+
 * [Hadoop based Uncertain Possibilistic Kernelized C-Means Algorithms for Image Segmentation and a Comparative analysis](http://www.sciencedirect.com/science/article/pii/S1568494616300333) B. K. Tripathy, Dishant Mittal, ELSEVIER, in Applied Soft Computing, Special Issue on Hybrid Intelligent Techniques for Image Analysis, Impact Factor: 2.810 (Sciencedirect)
 
 * [Stock Market Forecasting Using Lasso Linear Regression Model](https://link.springer.com/chapter/10.1007%2F978-3-319-13572-4_31) Sanjiban Sekhar Roy, Dishant Mittal, Avik Basu, Ajith Abraham First International Afro-European Conference for Industrial Advancement (AECIA 2014, Springer series Advances in Intelligent Systems and Computing) 

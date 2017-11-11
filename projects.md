@@ -8,7 +8,7 @@ permalink: /projects/
 
 Most of my projects have been in the area of Machine Learning and Aritficial Intelligence.
 
-+ [xyz](http://deerishi.github.io/genetic-algorithm-for-cnn/)
++ [xyz](https://dishant-mittal.github.io/user-user-collaborative-recommender-system)
 
 + [uvw](http://deerishi.github.io/graph-based-semi-supervised-learning/)
 
@@ -17,7 +17,7 @@ Ongoing Projects
 
 + Deep Networks for Named Entity Recognition.
 
-+ Developing Affective user grofiles for  github users. 
++ Developing Affective user profiles for  github users. 
 
 
 
