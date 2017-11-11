@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://dishant-mittal.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -84,13 +84,13 @@ about: true
 blog: false
 
 # do you want to show the "read time" of the posts?
-read-time: true
+read-time: false
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
 
 # related posts inside a post?
-related: true
+related: false
 
 # Display links for next and previous posts for the specified categories
 post-advance-links: [blog]
