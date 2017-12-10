@@ -12,6 +12,8 @@ Most of my projects have been in the area of Machine Learning and Aritficial Int
 
 + [Hybrid-Classifier-using-Stochastic-and-SOM](https://github.com/dishant-mittal/Hybrid-Classifier-using-Stochastic-and-SOM)
 
++ [Intrusion Detection using Machine Learning](http://dishant-mittal.github.io/Intrusion-Detection-using-Random-Forests/)
+
 Ongoing Projects
 
 
