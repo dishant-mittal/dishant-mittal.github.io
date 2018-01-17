@@ -12,15 +12,31 @@ layout: page
 
 <h2>Skills</h2>
 <ul class="skill-list">
-	<li>**Langauges: Java** , **Python**, Matlab, Latex, Javascript, SQL, HTML</li>
-	<li>**Frameworks**: Hadoop, Spark, Kafka, Django REST</li>
-	<li>**Apis**: Keras, TensorFlow, NumPy, Scikit-learn, Pandas</li>
-	<li>**Databases**: MySQL, Hbase, Hive, MongoDB</li>
-	<li>**Operating Systems: Linux**, Windows</li>
+	<li><b>Langauges: Java, Python</b>, Matlab, Latex, Javascript, SQL, HTML</li>
+	<li><b>Frameworks</b>: Hadoop, Spark, Kafka, Django REST</li>
+	<li><b>Apis</b>: Keras, TensorFlow, NumPy, Scikit-learn, Pandas</li>
+	<li><b>Databases</b>: MySQL, Hbase, Hive, MongoDB</li>
+	<li><b>Operating Systems: Linux</b>, Windows</li>
 </ul>
 
-<h2>Grad Courses</h2>
+<h2>Relevant Courses</h2>
+<h4>Graduate:</h4>
 <ul>
     <li>Software Engineering for Ultra Large Repositories</li>
 	<li>Deep Learning</li>
+</ul>
+
+<h4>Undergraduate:</h4>
+<ul>
+    <li>Data Structures and Algorithms</li>
+    <li>Linear Algebra</li>
+    <li>Applied Probability, Statistics and Reliability</li>
+    <li>Multivariable Calculus and Differential Equations</li>
+    <li>Differential and Difference Equations</li>
+    <li>Data Warehousing and Data Mining</li>
+    <li>Operating Systems</li>
+    <li>Algorithm Design and Analysis</li>
+    <li>Object Oriented Paradigm</li>
+    <li>Database Systems</li>
+    <li>Software Engineering</li>
 </ul>
