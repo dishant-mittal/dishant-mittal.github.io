@@ -1,6 +1,6 @@
 # main text of home
 name: Dishant Mittal
-bio: Computer Science grad student at University of Waterloo     2 years of work experience in big data and software engineering
+bio: Computer Science grad student at University of Waterloo</br> 2 years of work experience in big data and software engineering
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -12,9 +12,9 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
-resume-external: false
-resume-url: https://google.com/?q=my+resume
+resume: true
+resume-external: external
+resume-url: https://drive.google.com/open?id=1XBoucpWVLQknnZCMW9Uv2jdv7_TJYJ8x
 
 #just switch between the following to urls to activate and deactivate the website. This will work only when pushed to Github.
 #url: /404.html
