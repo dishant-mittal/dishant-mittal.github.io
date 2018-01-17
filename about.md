@@ -12,7 +12,7 @@ layout: page
 
 <h2>Skills</h2>
 <ul class="skill-list">
-	<li><b>Langauges: Java, Python</b>, Matlab, Latex, Javascript, SQL, HTML</li>
+	<li>**Langauges**: Java, Python, Matlab, Latex, Javascript, SQL, HTML</li>
 	<li><b>Frameworks</b>: Hadoop, Spark, Kafka, Django REST</li>
 	<li><b>Apis</b>: Keras, TensorFlow, NumPy, Scikit-learn, Pandas</li>
 	<li><b>Databases</b>: MySQL, Hbase, Hive, MongoDB</li>
