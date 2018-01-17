@@ -4,9 +4,16 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>As part of application development team in Samsung I have worked on several projects and implemented various features in S Planner application for Samsung flagship models. I have worked with Samsung HQ team at South Korea and Samsung Project Management team at Germany on several projects.</p>
+<p>As part of big-data team (Connected Services) in Johnson Controls I have developed several map-reduce jobs (for
+ problems like computing device run hours, finding hourly energy consumption statistics) to process Terabytes of data
+ emitted from chillers (huge machines which regulate the heating, ventilation and air-conditioning in buildings). Also, I have
+ collaborated with the team at Milwaukee to create a subset of the back-end of Johnson Controls' flagship product called Metasys.</p>
 
-<p>I am a Computer Scientist and a full stack software developer experienced with advanced machine learning, algorithms and natural language processing. I love incorporating artificial intelligence algorithms into full stack software development. <a href="https://photos.app.goo.gl/btoSNNjzXyCrjLyA3">link to gallery</a></p>
+<p>I have done several independent projects in the area of big-data and machine learning
+ (<a href="https://photos.app.goo.gl/btoSNNjzXyCrjLyA3">explore</a></p>). Computer Scientist and a full stack software
+ developer experienced with advanced machine learning, algorithms and natural language processing.
+ I love incorporating artificial intelligence algorithms into full stack software
+ development. <a href="https://photos.app.goo.gl/btoSNNjzXyCrjLyA3">link to gallery</a></p>
 
 <h2>Skills</h2>
 
