@@ -22,8 +22,8 @@ gallery-external: external
 gallery-url: https://photos.app.goo.gl/btoSNNjzXyCrjLyA3
 
 #just switch between the following to urls to activate and deactivate the website. This will work only when pushed to Github.
-# url: /404.html
-url: http://dishant-mittal.github.io
+url: /404.html
+# url: http://dishant-mittal.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
