@@ -15,10 +15,10 @@ I currently work at the <a href="http://blizzard.cs.uwaterloo.ca/iss4e/">Informa
 
 <h2>Skills</h2>
 <ul class="skill-list">
-	<li>Langauges: Java, Python, Matlab, Latex, Javascript, SQL, HTML</li>
-	<li>Frameworks: Hadoop, Spark, Kafka, Django REST</li>
-	<li>Apis: Keras, TensorFlow, NumPy, Scikit-learn, Pandas</li>
-	<li>Databases: MySQL, Hbase, Hive, MongoDB</li>
+	<li>Langauges: Java, Python, Latex, Javascript, SQL, HTML</li>
+	<li>Frameworks: Hadoop, Spark, Django REST</li>
+	<li>Apis: NumPy, Scikit-learn, Pandas</li>
+	<li>Databases: MySQL, Hbase, Hive</li>
 	<li>Operating Systems: Linux, Windows</li>
 </ul>
 
