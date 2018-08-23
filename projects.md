@@ -12,7 +12,7 @@ Ongoing Projects:
 
 + [Photorealistic Style Transfer in Videos](http://dishant-mittal.github.io/style-transfer-videos)
 
-+ [Preactive control of SPOT devices through timeseries occupancy prediction](http://dishant-mittal.github.io/spark-project) (Also my Thesis Project)
++ [Preactive control of SPOT devices through timeseries occupancy prediction](http://dishant-mittal.github.io/spark-project) (Also my Research Project)
 
 Past Projects:
 
