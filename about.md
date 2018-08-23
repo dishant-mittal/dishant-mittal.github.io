@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>I am a Computer Science grad student at University of Waterloo. I am passionate about algorithms, advanced machine learning and big-data.
-I currently work at the <a href="http://blizzard.cs.uwaterloo.ca/iss4e/">Information Systems and Science for Energy lab</a>. I am supervised by Prof. <a href="https://en.wikipedia.org/wiki/Srinivasan_Keshav">Srinivasan Keshav</a>. I have done several independent projects in the area of big-data and machine learning
+<!---I currently work at the <a href="http://blizzard.cs.uwaterloo.ca/iss4e/">Information Systems and Science for Energy lab</a>. I am supervised by Prof. <a href="https://en.wikipedia.org/wiki/Srinivasan_Keshav">Srinivasan Keshav</a>.--> I have done several independent projects in the area of big-data and machine learning
  (<a href="https://dishant-mittal.github.io/projects/">explore</a>)</p>
 
 <h2>Industry Experience</h2>
