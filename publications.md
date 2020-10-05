@@ -12,6 +12,8 @@ permalink: /publications/
 
 * [Efficiency Analysis of Kernel Functions in Uncertainty Based C-Means Algorithms](http://ieeexplore.ieee.org/document/7275709/?tp=&arnumber=7275709&url=http:%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7275709) Dishant Mittal, B. K. Tripathy Fourth International Conference on Advances in Computing, Communications and Informatics (ICACCI ’15, IEEE)
 
+* [Photorealistic Style Transfer for Videos](https://arxiv.org/abs/1807.00273) Michael Honke, Rahul Iyer, Dishant Mittal, arXiv preprint arXiv:1807.00273 (2018)
+
 * [Hadoop with Intuitionistic Fuzzy C-Means for Clustering in Big Data](https://link.springer.com/chapter/10.1007/978-981-10-0767-5_62) B. K. Tripathy, Dishant Mittal, Deepthi P. Hudedagaddi International Congress on Information and Communication Technology (ICICT 2015, Springer series Advances in Intelligent Systems and Computing)
 
 * [An Effective Hybridized Classifier for Breast Cancer Diagnosis](http://ieeexplore.ieee.org/document/7222674/?tp=&arnumber=7222674&url=http:%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7222674) Dishant Mittal, Dev Gaurav, Sanjiban Sekhar Roy, IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2015)

@@ -4,11 +4,18 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am a Computer Science grad student at University of Waterloo. I am passionate about algorithms, advanced machine learning and big-data.
+<p>I am a Data Scientist at Manulife. Before this, I was a Computer Science grad student at University of Waterloo. Earlier I was a Data Engineer at Johnson Controls. Even earlier, I was an under graduate at VIT, Vellore, where I majored in Computer Science and Engineering. I am passionate about algorithms, machine learning and big-data.
 <!---I currently work at the <a href="http://blizzard.cs.uwaterloo.ca/iss4e/">Information Systems and Science for Energy lab</a>. I am supervised by Prof. <a href="https://en.wikipedia.org/wiki/Srinivasan_Keshav">Srinivasan Keshav</a>.--> I have done several independent projects in the area of big-data and machine learning
  (<a href="https://dishant-mittal.github.io/projects/">explore</a>)</p>
 
 <h2>Industry Experience</h2>
+<p>I work with Advanced Analytics team at <a href="https://www.manulife.ca/personal.html">Manulife</a>. A brief summary of my work:<br />
+	<ul>
+	<li> I am helping to reduce the employee attrition within the company. I built an application from scratch for analysing organization wide network of emails using Pyspark. Detected communities within that network. Found influential employees within those communities who drive employee engagement. This application reduced the communication lag between employees by ~30%. It also helps in improving HR operations within the company to reduce employee churn. Besides this, I also built a model for predicting employee churn using features like distance from home, textual surveys, sentiment scores, LDA topics, etc.</li>
+	<li>Besides this, I worked to optimize the utilization of workspaces and meeting rooms within Manulife's offices. This was done by utilizing the data of sensors installed at employees' workspaces and data from employees' outlook calendar.</li>
+	<li>I built a pdf scraper to scrape the data related to specific tags from a repository of pdfs. Finally I analysed and visualized the data.</li>
+	</ul>
+
 <p>As a part of big-data team (Connected Services) in <a href="http://www.johnsoncontrols.com/">Johnson Controls</a>, I developed several map-reduce jobs (for problems like computing device run hours, finding hourly energy consumption) to process terabytes of data emitted from chillers (giant machines which regulate the heating, ventilation and air-conditioning in buildings). Also, I collaborated with the team at Milwaukee to create a subset of the back-end of company's flagship product called <a href="http://www.johnsoncontrols.com/buildings/building-management/building-automation-systems-bas">Metasys</a>. In 2016, I won the runner's up award at Johnson Control's technical fest for prototyping an idea which aimed at predicting faults in chiller operation, this consequently led to filing a US patent application (<a href="https://photos.app.goo.gl/btoSNNjzXyCrjLyA3">Gallery</a>)</p>
 
 
