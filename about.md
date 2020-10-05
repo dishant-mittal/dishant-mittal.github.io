@@ -8,6 +8,9 @@ layout: page
 <!---I currently work at the <a href="http://blizzard.cs.uwaterloo.ca/iss4e/">Information Systems and Science for Energy lab</a>. I am supervised by Prof. <a href="https://en.wikipedia.org/wiki/Srinivasan_Keshav">Srinivasan Keshav</a>.--> I have done several independent projects in the area of big-data and machine learning
  (<a href="https://dishant-mittal.github.io/projects/">explore</a>)</p>
 
+<h2>Research</h2>
+Publication in Applied Soft Computing (Worldwide Rank 9 in AI). See full Google Scholar profile <a href="https://scholar.google.com/citations?user=OrQJ90MAAAAJ&hl=en&oi=ao">here</a>.
+
 <h2>Industry Experience</h2>
 <p>I work with Advanced Analytics team at <a href="https://www.manulife.ca/personal.html">Manulife</a>. A brief summary of my work:<br />
 	<ul>
@@ -23,7 +26,7 @@ layout: page
 <h2>Skills</h2>
 <ul class="skill-list">
 	<li>Langauges: Java, Python, Latex, Javascript, SQL, HTML</li>
-	<li>Frameworks: Hadoop, Spark, Django REST</li>
+	<li>Frameworks: Hadoop, Spark, Gensim, Tensorflow, Django REST</li>
 	<li>Apis: NumPy, Scikit-learn, Pandas</li>
 	<li>Databases: MySQL, Hbase, Hive</li>
 	<li>Operating Systems: Linux, Windows</li>
