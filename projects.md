@@ -10,11 +10,16 @@ Most of my projects are in the area of Machine Learning and Big data.
 
 Ongoing Projects:
 
++ [Project Rome]
+
++ [Unified]
+
+
+Past Projects:
+
 + [Photorealistic Style Transfer in Videos](http://dishant-mittal.github.io/style-transfer-videos)
 
 + [Preactive control of SPOT devices through timeseries occupancy prediction](http://dishant-mittal.github.io/spark-project) (Also my Research Project)
-
-Past Projects:
 
 + Scalable REST API for Metasys UI (@Johnson Controls)
 

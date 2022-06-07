@@ -4,8 +4,8 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am a Data Scientist at Manulife. Before this, I was a Computer Science grad student at University of Waterloo. Earlier I was a Data Engineer at Johnson Controls. Even earlier, I was an under graduate at VIT, Vellore, where I majored in Computer Science and Engineering. I am passionate about algorithms, machine learning and big-data.
-<!---I currently work at the <a href="http://blizzard.cs.uwaterloo.ca/iss4e/">Information Systems and Science for Energy lab</a>. I am supervised by Prof. <a href="https://en.wikipedia.org/wiki/Srinivasan_Keshav">Srinivasan Keshav</a>.--> I have done several independent projects in the area of big-data and machine learning
+<p>I am a Software Engineer at Manulife. Before this, I was a Computer Science grad student at University of Waterloo. Earlier I was a Software Engineer at Johnson Controls. Even earlier, I was an under graduate at VIT, Vellore, where I majored in Computer Science and Engineering. I am passionate about algorithms, machine learning and big-data.
+<!---I currently work at the <a href="http://blizzard.cs.uwaterloo.ca/iss4e/">Information Systems and Science for Energy lab</a>. I am supervised by Prof. <a href="https://en.wikipedia.org/wiki/Srinivasan_Keshav">Srinivasan Keshav</a>.--> I have done several independent projects in the area of web-development, big-data and machine learning
  (<a href="https://dishant-mittal.github.io/projects/">explore</a>)</p>
 
 <h2>Research</h2>
@@ -25,11 +25,11 @@ Publication in Applied Soft Computing (Worldwide Rank 9 in AI). See full Google 
 
 <h2>Skills</h2>
 <ul class="skill-list">
-	<li>Langauges: Java, Python, Latex, Javascript, SQL, HTML</li>
+	<li>Langauges: Python, Java, Latex, Javascript, SQL, HTML</li>
 	<li>Frameworks: Hadoop, Spark, Gensim, Tensorflow, Django REST</li>
 	<li>Apis: NumPy, Scikit-learn, Pandas</li>
-	<li>Databases: MySQL, Hbase, Hive</li>
-	<li>Operating Systems: Linux, Windows</li>
+	<li>Databases: MySQL, Neo4J, Hbase, Hive</li>
+	<li>Operating Systems: MAC, Linux, Windows</li>
 </ul>
 
 <h2>Relevant Courses</h2>
