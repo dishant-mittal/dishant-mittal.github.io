@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am a Software Engineer at Manulife. Before this, I was a Computer Science grad student at University of Waterloo. Earlier I was a Software Engineer at Johnson Controls. Even earlier, I was an under graduate at VIT, Vellore, where I majored in Computer Science and Engineering. I am passionate about algorithms, machine learning and big-data.
+<p>I am a Software Engineer at Manulife. Before this, I was a Computer Science grad student at University of Waterloo. Earlier I was a Software Engineer at Johnson Controls. Even earlier, I was an under graduate at VIT, Vellore, where I majored in Computer Science and Engineering. Interests: Algorithms and Machine Learning.
 <!---I currently work at the <a href="http://blizzard.cs.uwaterloo.ca/iss4e/">Information Systems and Science for Energy lab</a>. I am supervised by Prof. <a href="https://en.wikipedia.org/wiki/Srinivasan_Keshav">Srinivasan Keshav</a>.--> I have done several independent projects in the area of web-development, big-data and machine learning
  (<a href="https://dishant-mittal.github.io/projects/">explore</a>)</p>
 
