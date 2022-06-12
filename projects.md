@@ -19,8 +19,6 @@ Past Projects:
 
 + [Photorealistic Style Transfer in Videos](http://dishant-mittal.github.io/style-transfer-videos)
 
-+ [Preactive control of SPOT devices through timeseries occupancy prediction](http://dishant-mittal.github.io/spark-project) (Also my Research Project)
-
 + Scalable REST API for Metasys UI (@Johnson Controls)
 
 + [Scalable Image color Segmentation Algorithms for Commodity Machines](http://dishant-mittal.github.io/HPKRIFCM)
